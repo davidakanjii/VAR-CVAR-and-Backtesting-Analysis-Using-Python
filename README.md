@@ -4,7 +4,7 @@
 This Python script uses returns data from Yahoo Finance to compute historical simulation, vaR, CVAR, and backtesting.
 
 **Author**
-David Akanji & Ghanim Rasheed
+David Akanji, Ghanim Rasheed & Shambhu Shankar
 
 **Platforms**
 This application was tested on Windows 10.
